@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelOforiMunufie
 - 👀 I’m interested in Artificial Intelligence/Machine Learning,Deep Learning and Robotics
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning/Deep Learning as well as Robotics projects
+- 💞️ I’m looking to collaborate on Machine/Deep Learning projects
 - 📫 How to reach me munufieemmanuel@yahoo.com
 
 <!---
